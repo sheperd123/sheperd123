@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sheperd123
+- 👀 I’m interested in Linux/Open source projects 
+- 🌱 I’m currently learning Bash and it's basics  
+- 📫 How to reach me : sheperd123@protonmail.com
